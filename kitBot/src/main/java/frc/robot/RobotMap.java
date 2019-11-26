@@ -17,8 +17,11 @@ public class RobotMap {
 
 	public static final int MOTORLEFT1ID = 0;
   public static final int MOTORLEFT2ID = 1;
+
 	public static final int MOTORRIGHT1ID = 2;
   public static final int MOTORRIGHT2ID = 3;
+
+  
   public static final int LEFTSTICK = 0;
   public static final int RIGHTSTICK = 1;
 

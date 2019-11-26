@@ -23,6 +23,10 @@ public class OI {
     return leftStick.getRawAxis(axis);
   }
 
+  public double getRightRawAxis(int axis){
+    return rightStick.getRawAxis(axis);
+  }
+
 
 
   //// CREATING BUTTONS
